@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>WP Plugin Inventory</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header>
+      <h1>WP Plugin Inventory</h1>
+      <p id="tab-status" class="muted">Checking current tab…</p>
+    </header>
+
+    <section class="actions">
+      <button id="collect-btn" type="button" disabled>Collect plugins from this site</button>
+      <p id="message" class="message" hidden></p>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>Collected sites</h2>
+        <span id="site-count" class="muted">0</span>
+      </div>
+      <ul id="site-list" class="site-list"></ul>
+      <p id="empty-state" class="muted empty">
+        Log into a site’s wp-admin, then collect. Repeat for each site. Export when you are done.
+      </p>
+    </section>
+
+    <footer>
+      <button id="export-csv-btn" type="button" disabled>Export CSV</button>
+      <button id="export-json-btn" type="button" class="secondary" disabled>Export JSON</button>
+      <button id="clear-btn" type="button" class="danger" disabled>Clear</button>
+    </footer>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

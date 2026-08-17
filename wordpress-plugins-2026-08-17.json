@@ -1,0 +1,442 @@
+[
+  {
+    "collectedAt": "2026-08-17T13:50:08.352Z",
+    "ok": true,
+    "plugins": [
+      {
+        "file": "cleantalk-spam-protect/cleantalk",
+        "mustUse": false,
+        "name": "Anti-Spam par CleanTalk",
+        "status": "active",
+        "version": "6.82"
+      },
+      {
+        "file": "complianz-gdpr-premium/complianz-gpdr-premium",
+        "mustUse": false,
+        "name": "Complianz Privacy Suite (GDPR/CCPA) premium",
+        "status": "inactive",
+        "version": "7.1.1"
+      },
+      {
+        "file": "contact-form-cfdb7/contact-form-cfdb-7",
+        "mustUse": false,
+        "name": "Contact Form CFDB7",
+        "status": "inactive",
+        "version": "1.3.6"
+      },
+      {
+        "file": "custom-post-type-ui/custom-post-type-ui",
+        "mustUse": false,
+        "name": "Custom Post Type UI",
+        "status": "active",
+        "version": "1.19.2"
+      },
+      {
+        "file": "domain-availabilty-checker/domain-checker-plugin",
+        "mustUse": false,
+        "name": "Domain Availability Checker",
+        "status": "active",
+        "version": "1.0.0"
+      },
+      {
+        "file": "duplicate-page/duplicatepage",
+        "mustUse": false,
+        "name": "Duplicate Page",
+        "status": "active",
+        "version": "4.5.9"
+      },
+      {
+        "file": "dynamicconditions/dynamic-conditions",
+        "mustUse": false,
+        "name": "DynamicConditions",
+        "status": "active",
+        "version": "1.7.5"
+      },
+      {
+        "file": "elementor/elementor",
+        "mustUse": false,
+        "name": "Elementor",
+        "status": "active",
+        "version": "4.1.4"
+      },
+      {
+        "file": "elementor-pro/elementor-pro",
+        "mustUse": false,
+        "name": "Elementor Pro",
+        "status": "active",
+        "version": "3.33.2"
+      },
+      {
+        "file": "hreflang-manager-lite/init",
+        "mustUse": false,
+        "name": "Hreflang Manager",
+        "status": "active",
+        "version": "1.19"
+      },
+      {
+        "file": "indexnow/indexnow-url-submission",
+        "mustUse": false,
+        "name": "IndexNow",
+        "status": "active",
+        "version": "1.0.4"
+      },
+      {
+        "file": "maintenance/maintenance",
+        "mustUse": false,
+        "name": "Maintenance",
+        "status": "inactive",
+        "version": "4.31"
+      },
+      {
+        "file": "redirection/redirection",
+        "mustUse": false,
+        "name": "Redirection",
+        "status": "active",
+        "version": "5.8.1"
+      },
+      {
+        "file": "secure-custom-fields/secure-custom-fields",
+        "mustUse": false,
+        "name": "Secure Custom Fields",
+        "status": "active",
+        "version": "6.9.1"
+      },
+      {
+        "file": "updraftplus/updraftplus",
+        "mustUse": false,
+        "name": "UpdraftPlus - Backup/Restore",
+        "status": "active",
+        "version": "2.26.5.26"
+      },
+      {
+        "file": "wp-reviews-plugin-for-google/wp-reviews-plugin-for-google",
+        "mustUse": false,
+        "name": "Widgets pour Google Reviews",
+        "status": "active",
+        "version": "13.3.1"
+      },
+      {
+        "file": "insert-headers-and-footers/ihaf",
+        "mustUse": false,
+        "name": "WPCode Lite",
+        "status": "active",
+        "version": "2.3.7"
+      },
+      {
+        "file": "wp-file-manager/file_folder_manager",
+        "mustUse": false,
+        "name": "WP File Manager",
+        "status": "active",
+        "version": "8.0.4"
+      },
+      {
+        "file": "wp-mail-smtp-pro/wp_mail_smtp",
+        "mustUse": false,
+        "name": "WP Mail SMTP Pro",
+        "status": "active",
+        "version": "4.9.0"
+      },
+      {
+        "file": "wordpress-seo/wp-seo",
+        "mustUse": false,
+        "name": "Yoast SEO",
+        "status": "active",
+        "version": "27.9"
+      },
+      {
+        "file": "elementor-safe-mode.php",
+        "mustUse": true,
+        "name": "Elementor Safe Mode",
+        "status": "active",
+        "version": "1.0.0"
+      },
+      {
+        "file": "wp-staging-optimizer.php",
+        "mustUse": true,
+        "name": "WP STAGING Optimizer",
+        "status": "active",
+        "version": "1.5.1"
+      }
+    ],
+    "siteName": "Studio218",
+    "siteUrl": "https://studio218.fr",
+    "source": "rest",
+    "wpVersion": "7.0.4"
+  },
+  {
+    "collectedAt": "2026-08-17T13:55:08.392Z",
+    "ok": true,
+    "plugins": [
+      {
+        "file": "advanced-custom-fields/acf",
+        "mustUse": false,
+        "name": "Advanced Custom Fields",
+        "status": "active",
+        "version": "6.8.5"
+      },
+      {
+        "file": "ameliabooking/ameliabooking",
+        "mustUse": false,
+        "name": "Amelia",
+        "status": "active",
+        "version": "8.4"
+      },
+      {
+        "file": "cleantalk-spam-protect/cleantalk",
+        "mustUse": false,
+        "name": "Anti-Spam par CleanTalk",
+        "status": "active",
+        "version": "6.82"
+      },
+      {
+        "file": "classic-editor/classic-editor",
+        "mustUse": false,
+        "name": "Classic Editor",
+        "status": "active",
+        "version": "1.7.0"
+      },
+      {
+        "file": "duplicate-page/duplicatepage",
+        "mustUse": false,
+        "name": "Duplicate Page",
+        "status": "active",
+        "version": "4.5.9"
+      },
+      {
+        "file": "elementor/elementor",
+        "mustUse": false,
+        "name": "Elementor",
+        "status": "active",
+        "version": "4.1.4"
+      },
+      {
+        "file": "elementor-pro/elementor-pro",
+        "mustUse": false,
+        "name": "Elementor Pro",
+        "status": "active",
+        "version": "3.34.0"
+      },
+      {
+        "file": "loco-translate/loco",
+        "mustUse": false,
+        "name": "Loco Translate",
+        "status": "active",
+        "version": "2.8.5"
+      },
+      {
+        "file": "redirection/redirection",
+        "mustUse": false,
+        "name": "Redirection",
+        "status": "active",
+        "version": "5.8.1"
+      },
+      {
+        "file": "simple-cpt/simple-cpt",
+        "mustUse": false,
+        "name": "Simple CPT",
+        "status": "active",
+        "version": "1.1.0"
+      },
+      {
+        "file": "svg-support/svg-support",
+        "mustUse": false,
+        "name": "SVG Support",
+        "status": "active",
+        "version": "2.5.16"
+      },
+      {
+        "file": "updraftplus/updraftplus",
+        "mustUse": false,
+        "name": "UpdraftPlus - Backup/Restore",
+        "status": "active",
+        "version": "2.26.5.26"
+      },
+      {
+        "file": "wp-reviews-plugin-for-google/wp-reviews-plugin-for-google",
+        "mustUse": false,
+        "name": "Widgets pour Google Reviews",
+        "status": "active",
+        "version": "13.3.1"
+      },
+      {
+        "file": "woocommerce/woocommerce",
+        "mustUse": false,
+        "name": "WooCommerce",
+        "status": "active",
+        "version": "10.9.3"
+      },
+      {
+        "file": "woocommerce-paypal-payments/woocommerce-paypal-payments",
+        "mustUse": false,
+        "name": "WooCommerce PayPal Payments",
+        "status": "active",
+        "version": "4.1.0"
+      },
+      {
+        "file": "insert-headers-and-footers/ihaf",
+        "mustUse": false,
+        "name": "WPCode Lite",
+        "status": "active",
+        "version": "2.3.7"
+      },
+      {
+        "file": "wp-fastest-cache/wpFastestCache",
+        "mustUse": false,
+        "name": "WP Fastest Cache",
+        "status": "inactive",
+        "version": "1.4.9"
+      },
+      {
+        "file": "wp-mail-smtp-pro/wp_mail_smtp",
+        "mustUse": false,
+        "name": "WP Mail SMTP Pro",
+        "status": "active",
+        "version": "4.9.0"
+      },
+      {
+        "file": "wordpress-seo/wp-seo",
+        "mustUse": false,
+        "name": "Yoast SEO",
+        "status": "active",
+        "version": "28.0"
+      },
+      {
+        "file": "advanced-custom-fields/acf.php",
+        "mustUse": true,
+        "name": "Advanced Custom Fields",
+        "status": "active",
+        "version": "6.8.5"
+      },
+      {
+        "file": "ameliabooking/ameliabooking.php",
+        "mustUse": true,
+        "name": "Amelia",
+        "status": "active",
+        "version": "8.4"
+      },
+      {
+        "file": "cleantalk-spam-protect/cleantalk.php",
+        "mustUse": true,
+        "name": "Anti-Spam par CleanTalk",
+        "status": "active",
+        "version": "6.82"
+      },
+      {
+        "file": "classic-editor/classic-editor.php",
+        "mustUse": true,
+        "name": "Classic Editor",
+        "status": "active",
+        "version": "1.7.0"
+      },
+      {
+        "file": "duplicate-page/duplicatepage.php",
+        "mustUse": true,
+        "name": "Duplicate Page",
+        "status": "active",
+        "version": "4.5.9"
+      },
+      {
+        "file": "elementor/elementor.php",
+        "mustUse": true,
+        "name": "Elementor",
+        "status": "active",
+        "version": "4.1.4"
+      },
+      {
+        "file": "elementor-pro/elementor-pro.php",
+        "mustUse": true,
+        "name": "Elementor Pro",
+        "status": "active",
+        "version": "3.34.0"
+      },
+      {
+        "file": "loco-translate/loco.php",
+        "mustUse": true,
+        "name": "Loco Translate",
+        "status": "active",
+        "version": "2.8.5"
+      },
+      {
+        "file": "redirection/redirection.php",
+        "mustUse": true,
+        "name": "Redirection",
+        "status": "active",
+        "version": "5.8.1"
+      },
+      {
+        "file": "simple-cpt/simple-cpt.php",
+        "mustUse": true,
+        "name": "Simple CPT",
+        "status": "active",
+        "version": "1.1.0"
+      },
+      {
+        "file": "svg-support/svg-support.php",
+        "mustUse": true,
+        "name": "SVG Support",
+        "status": "active",
+        "version": "2.5.16"
+      },
+      {
+        "file": "updraftplus/updraftplus.php",
+        "mustUse": true,
+        "name": "UpdraftPlus - Backup/Restore",
+        "status": "active",
+        "version": "2.26.5.26"
+      },
+      {
+        "file": "wp-reviews-plugin-for-google/wp-reviews-plugin-for-google.php",
+        "mustUse": true,
+        "name": "Widgets pour Google Reviews",
+        "status": "active",
+        "version": "13.3.1"
+      },
+      {
+        "file": "woocommerce/woocommerce.php",
+        "mustUse": true,
+        "name": "WooCommerce",
+        "status": "active",
+        "version": "10.9.3"
+      },
+      {
+        "file": "woocommerce-paypal-payments/woocommerce-paypal-payments.php",
+        "mustUse": true,
+        "name": "WooCommerce PayPal Payments",
+        "status": "active",
+        "version": "4.1.0"
+      },
+      {
+        "file": "wp-fastest-cache/wpFastestCache.php",
+        "mustUse": true,
+        "name": "WP Fastest Cache",
+        "status": "active",
+        "version": "1.4.9"
+      },
+      {
+        "file": "wp-mail-smtp-pro/wp_mail_smtp.php",
+        "mustUse": true,
+        "name": "WP Mail SMTP Pro",
+        "status": "active",
+        "version": "4.9.0"
+      },
+      {
+        "file": "insert-headers-and-footers/ihaf.php",
+        "mustUse": true,
+        "name": "WPCode Lite",
+        "status": "active",
+        "version": "2.3.7"
+      },
+      {
+        "file": "wordpress-seo/wp-seo.php",
+        "mustUse": true,
+        "name": "Yoast SEO",
+        "status": "active",
+        "version": "28.0"
+      }
+    ],
+    "siteName": "Termopolis",
+    "siteUrl": "https://www.termopolis.fr",
+    "source": "rest",
+    "wpVersion": "7.0.4"
+  }
+]
