@@ -86,13 +86,3 @@ extension/
 ```
 
 Do not commit inventory exports (`*.csv`, `wordpress-plugins-*.json`). They often contain client site names and plugin lists.
-
-## Chrome Web Store (optional)
-
-To share it with colleagues without Developer mode, you can publish it **unlisted** on the Chrome Web Store (not searchable; install via the listing URL). That still requires a $5 developer account, a privacy policy URL, a demo WordPress login for reviewers, and Google’s review.
-
-See [Publish in the Chrome Web Store](https://developer.chrome.com/docs/webstore/publish) and set **Visibility → Unlisted** on the Distribution tab.
-
-## License
-
-Add a `LICENSE` file before making the repository public if you want others to reuse this code (for example MIT).
