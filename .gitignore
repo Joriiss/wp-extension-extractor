@@ -1,0 +1,10 @@
+# Inventory exports (often contain client site data)
+*.csv
+wordpress-plugins-*.json
+
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+__pycache__/
+*.pyc
